@@ -1,0 +1,28 @@
+{
+  "name": "pdf_convertor",
+  "version": "1.0.0",
+  "description": "convert to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razayuu/pdf_convertor.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razayuu/pdf_convertor/issues"
+  },
+  "homepage": "https://github.com/razayuu/pdf_convertor#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.5.1",
+    "puppeteer-core": "^13.5.1"
+  }
+}
